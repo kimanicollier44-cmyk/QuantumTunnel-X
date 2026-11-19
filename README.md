@@ -1,4 +1,4 @@
-![QuantumTunnel-X cover](assets/cover.png)
+![QuantumTunnel-X cover](QuantumTunnel-X%20cover.png)
 
 # QuantumTunnel-X 🌌⚛️
 
